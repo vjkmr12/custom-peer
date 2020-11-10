@@ -7,6 +7,7 @@ var path = require('path')
 
 var opts = {
 	debug: true,
+	key: 'peerjs',
 	port: process.env.PORT || '9000',
 	path: '/',
 	allow_discovery: true
