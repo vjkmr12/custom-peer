@@ -7,7 +7,6 @@ var path = require('path')
 
 var opts = {
 	debug: true,
-	key: 'lwjd5qra8257b9',
 	port: process.env.PORT || '9000',
 	path: '/',
 	allow_discovery: true
